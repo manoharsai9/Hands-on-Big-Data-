@@ -4,4 +4,4 @@
 
 2) Managed big data on a cluster with HDFS and MapReduce
 
-3) Wrote programs to analyze data on Hadoop with Pig
+3) Wrote scripts to analyze data on Hadoop with Pig and Spark (PySpark)
