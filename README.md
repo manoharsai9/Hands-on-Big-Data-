@@ -5,3 +5,5 @@
 2) Managed big data on a cluster with HDFS and MapReduce
 
 3) Wrote scripts to analyze data on Hadoop with Pig and Spark (PySpark)
+
+4) Used Spark MLlib and developed a script for movie recommendations to a new user. 
