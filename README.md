@@ -6,4 +6,4 @@
 
 3) Wrote scripts to analyze data on Hadoop with Pig and Spark (PySpark)
 
-4) Used Spark MLlib and developed a script for movie recommendations to a new user. 
+4) Used Spark MLlib -> Collaborative Filtering (ALS) and developed a script for movie recommendations to a new user. 
